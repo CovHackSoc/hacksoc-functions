@@ -1,0 +1,19 @@
+{
+  "name": "hacksoc-functions",
+  "version": "1.0.0",
+  "description": "Serverless functions made for HackSoc. Deploys on netlify.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/covhacksoc/hacksoc-functions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/covhacksoc/hacksoc-functions/issues"
+  },
+  "homepage": "https://github.com/covhacksoc/hacksoc-functions#readme"
+}
